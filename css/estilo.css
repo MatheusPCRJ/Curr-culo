@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size: 100%;
+    background-color: antiquewhite;
+}
+ul {
+    display: table;
+    margin-left: 46px;
+}
+
+/* Container */
+.container {
+    max-width: 743px;
+    padding: 5%;
+    margin: 10px auto;
+    border: 1px solid #111;
+}
+/* header */
+header h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+/* header */
+header p {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+    
+}
+
+.objective{
+    font-size: 18px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.Academic {
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+}
+
+.Experience{
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+}
+
+.Companies2 {
+    margin: 10px auto;
+}
+
+.information{
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+}
+
+.information2{
+    margin: 10px auto;
+}
